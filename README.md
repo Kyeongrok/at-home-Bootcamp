@@ -12,3 +12,8 @@
 - [알라딘](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=349233996)
 
 ![방구석부트캠프자바_입체표지](https://github.com/user-attachments/assets/72995f2a-4d7d-4b48-9fa5-012522446f6f)
+
+## Chapters
+
+- [Chapter 02 입력과 출력](https://github.com/Kyeongrok/at-home-Bootcamp/tree/main/src/chapter02)
+- [Chapter 03 변수와 타입](https://github.com/Kyeongrok/at-home-Bootcamp/tree/main/src/chapter03)
