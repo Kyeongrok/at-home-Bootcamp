@@ -17,3 +17,6 @@
 
 - [Chapter 02 입력과 출력](https://github.com/Kyeongrok/at-home-Bootcamp/tree/main/src/chapter02)
 - [Chapter 03 변수와 타입](https://github.com/Kyeongrok/at-home-Bootcamp/tree/main/src/chapter03)
+- [Chapter 04 배열](https://github.com/Kyeongrok/at-home-Bootcamp/tree/main/src/chapter04)
+- [Chapter 05 연산자](https://github.com/Kyeongrok/at-home-Bootcamp/tree/main/src/chapter05)
+- [Chapter 06 제어문](https://github.com/Kyeongrok/at-home-Bootcamp/tree/main/src/chapter06)
